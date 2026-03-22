@@ -13,3 +13,6 @@ yoy wont have the spawngearpresets bit so make sure it looks exactly like that. 
  "spawnGearPresetFiles": ["custom/BasicHunterLoadout.json","custom/whateverloadout.json"],
 
  needs the , inbetween or it wont work, good luck enjoy console only unless you know what your doing
+
+ https://youtu.be/JejPcyGqGqo?si=k0loCUbuf_njBzYZ
+ youtube clip above jst follow link
